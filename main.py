@@ -61,6 +61,7 @@ while True:
     # Short delay to avoid rapid updates
     sleep(0.05)
 
+
     # instead of blinking,
     # how can you make the LEDs
     # turn on like a volume meter?
